@@ -1,0 +1,40 @@
+     span{
+		  height: 50px;
+		  width: 100px;
+		  padding: 5px;
+		  margin: 30px;
+		  background: #00ff00;
+		  display: inline-block;
+		  float:normal;
+		  clear:normal;
+		  border:outset 1px black;
+	  }
+	  div{
+		  height: 110px;
+		  width: 120px;
+		  padding: 12px;
+		  padding-bottom: 15px;
+		  margin: 0 auto;
+		  margin-top: 50%;
+		  background: #00ffff;
+		  box-sizing: border-box;
+		  display: inline-block;
+		  float: right;
+		  clear:normal;
+		  overflow: normal;
+		  border:solid 20px grey;
+		  font-size:100%;
+	  }	  
+	  p{
+		  background: #ff00ff;		  
+		  height: 50px;
+		  width: 100px;
+		  padding: 10px;
+		  margin: 0 auto;
+		  display:inline-block;
+		  float:normal;
+		  clear:normal;
+		  border:outset 1px red;
+		  border-width: 1px;
+		  
+	  }

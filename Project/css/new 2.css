@@ -1,0 +1,45 @@
+h1{
+           font-size: 200%;
+		   color: white;
+		   font-family: "Time New Roman", serif;
+	  }
+	  
+   header{
+		  background: #666666;
+		  text-align: center;
+		  padding: 5px;
+	     }
+   nav{
+			font-variant: small-caps;
+			font-size: 120%;
+			font-family: "Time New Roman", serif;
+		 }
+	h2{
+		color: #666666;
+		background: #00B7EA;
+	}
+	details{
+		font-style: italic;
+	}
+	summary{
+		font-style: normal;
+	}
+	footer{
+		background: #666666;
+		clear: both;
+	}
+	section{
+		width: 30%;
+		display: inline-block;
+		float: left;
+		margin-right:10px;
+		padding: 5px;
+	}
+	img{
+		width:100px;
+	}
+	body{
+		  background: #C1C2C3;
+		  font-size: 100%;
+		  margin: 4%;
+	  }

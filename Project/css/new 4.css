@@ -1,0 +1,38 @@
+nav a{
+		  display: inline-bold;
+		  font-weight: bold; 
+		  color: #ffffff;
+		  background: #0006CC;
+		  width: 125px;
+		  padding: 7px;
+		  text-decoration: none;
+		  margin: 0 auto;
+	  }
+	 nav a:hover{
+		  background: #B3B3B3;
+		  color: #f0000f;
+	  }
+	 nav a:focus{
+		  background: #B3B3B3;
+		  color: #ff0000;
+	  }
+	 nav a:active{
+		border: 3px dashed #ff00ff;  
+	  }
+	  
+	  ul{
+		  list-style-type: square;
+	  }
+	  /* STATES
+	  a:link
+	  a:visited
+	  a:hover
+	  a:focus
+	  a:active
+	  */
+	  ul{
+		  list-style-image: square url('icon.gif');
+	  }
+       ul{
+		  list-style-image:url('../imgs/light.gif');
+	  } 	  /*for custom image type*/

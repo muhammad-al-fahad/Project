@@ -1,0 +1,28 @@
+	 a.one{
+		  display: inline-block;
+		  font-weight: italic;
+		  color: #0000ff;
+		  background: #00ffea;
+		  width: 125px;
+		  padding: 7px;
+		  text-decoration:none;
+		  margin: 0 auto;
+	  }
+	  a.one:hover{
+		  background: #B3B3B3;
+		  color: #f0000f;
+	  }
+	  a.one:focus{
+		  background: #B3B3B3;
+		  color: #ff0000;
+	  }
+	  a.one:active{
+		  border: 3px dashed #ff00ff;  
+	  }
+/* the link or any document who is linked is end with .com, .org, .css, .html etc.*/
+	  a[href$=".org"]{
+		  background:#FFFF00;
+	  } 
+	 a[href = "https://www.fiverr.com/s2/4128644b7b"]{
+		 background: #ffb7ea;
+	 }
